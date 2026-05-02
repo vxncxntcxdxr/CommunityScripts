@@ -1,5 +1,7 @@
 # Stash Scheduler Plugin
 
+https://discourse.stashapp.cc/t/stash-scheduler/7059
+
 A plugin for [Stash](https://github.com/stashapp/stash) that automatically runs library scans on a schedule (hourly, daily, or weekly), with an optional identify pass after each scan.
 
 ---
